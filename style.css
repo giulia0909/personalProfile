@@ -71,6 +71,7 @@ a.email-link {
   padding-left: 2%;
   padding-top: 2%;
   padding-bottom: 2%;
+  padding-right: 2%;
 }
 
 .right {
@@ -84,6 +85,9 @@ a.email-link {
   flex-direction: column;
   justify-content: flex-start;
   clear: both;
+  border: 1px solid black;
+  box-shadow: 2px 2px 5px grey;
+  padding-left: 2%;
 }
 
 /* .aboutLeft {
