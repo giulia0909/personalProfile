@@ -1,5 +1,7 @@
 html {
-  margin-top: 12%;
+  margin-top: 5%;
+  padding: 5%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
   font-size: 24px;
@@ -15,7 +17,7 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  height: 50px;
+  height: 75px;
   display: flex;
   align-items: center;
 }
